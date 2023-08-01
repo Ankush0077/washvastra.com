@@ -477,7 +477,7 @@ https://images.unsplash.com/photo-1598842403593-98f2607b0b8e?ixlib=rb-1.2.1&auto
 .hero{
 	background: black;
     overflow: hidden;
-	background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url("https://i.postimg.cc/4yPyZVyG/laundress-work.jpg");
+	background: -webkit-linear-gradient(rgba(1, 25, 248, 0.8), rgba(195, 198, 215, 0.8)), url("https://i.postimg.cc/4yPyZVyG/laundress-work.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
